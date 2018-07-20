@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754021624186",
+    "firebase_url": "https://makkal-kavasam-1530862927613.firebaseio.com",
+    "project_id": "makkal-kavasam-1530862927613",
+    "storage_bucket": "makkal-kavasam-1530862927613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754021624186:android:d07e91dea35fcf8e",
+        "android_client_info": {
+          "package_name": "kavasam.makkal.com.mkkalkavasam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754021624186-77nbc9hngvqru5dq5ouqnrnqua6pafgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kavasam.makkal.com.mkkalkavasam",
+            "certificate_hash": "6126cbf8c7fa9d3b59c33c7b576fdf8911a94f0f"
+          }
+        },
+        {
+          "client_id": "754021624186-urj3lfjuag3sn8sghfsdffdo7a0pf5ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZTWG0w4tcR_zCtJyC5HxCgXxNVIXWbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754021624186-urj3lfjuag3sn8sghfsdffdo7a0pf5ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
